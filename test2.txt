@@ -1,0 +1,1 @@
+I have removed credential manager. Lets see if we can switch user in github.
